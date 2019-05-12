@@ -8,7 +8,7 @@
 
 | Section                          | Topics & Assignments                                                                    |
 |----------------------------------|-----------------------------------------------------------------------------------------|
-| Time Series with Pandas          | Datetime Index, Time Resampling, & Time Shifting                                        |
+| Time Series with Pandas          | Datetime Index, Time Resampling, Time Shifting, Rolling & Expanding, Visualizing TSD    |
 |                                  |                                                                                         |
 |                                  |                                                                                         |
 |                                  |                                                                                         |
