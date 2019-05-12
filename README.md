@@ -4,19 +4,15 @@
 - Use Pandas and Statsmodels to visualize time-series data
 - Implement a wide variety of forecasting techniques on time-series data
 
-### Course Content:
+### Content:
 
-| Date              | Topics & Assignments                                                                                   |
-|-------------------|--------------------------------------------------------------------------------------------------------|
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
-|                   |                                                                                                        |
+| Section                          | Topics & Assignments                                                                    |
+|----------------------------------|-----------------------------------------------------------------------------------------|
+| Time Series with Pandas          | Datetime Index, Time Resampling, & Time Shifting                                        |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
+|                                  |                                                                                         |
